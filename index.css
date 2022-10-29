@@ -131,5 +131,10 @@ body{
     transition: width 0.1s linear ;
 }
 
-/* 
- */
+p{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+    justify-content: center;
+
+}
